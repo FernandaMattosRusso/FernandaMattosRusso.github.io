@@ -1,0 +1,11 @@
+Aluna: Fernanda Mattos Russo
+Exercício da aula 4
+
+Características:
+
+Cores -- laranja, amarelo, vermelho,
+cores que remetem calor e comida
+
+Fontes -- Verdana sem sarifa,
+Fonte de fácil leitura na web e, por ser padrão,
+pode rodar em qualuquer máquina
